@@ -1,10 +1,10 @@
-# 📒 AI Usage Log
+# AI Usage Log
 
 This document explains where and how AI tools were used while building the **Newmark Listings App**.
 
 ---
 
-## 🔹 Top 3–5 Prompt Snippets / Screenshots
+## Top 3–5 Prompt Snippets / Screenshots
 
 ### 1. Backend Scaffolding (FastAPI Endpoints)  
 Prompt:  
@@ -67,21 +67,21 @@ Prompt:
 
 ---
 
-## 🔹 Example of AI Suggestion I Did NOT Use
+## Example of AI Suggestion I Did NOT Use
 - AI suggested implementing **SQLite migrations** with Alembic.  
 - I skipped this to keep the project simple and within the 1–2 day timebox.  
 - Instead, I stayed with an **in-memory store**, which is fine for demo purposes.
 
 ---
 
-## 🔹 Estimated Time Saved
+## Estimated Time Saved
 - Backend scaffolding → ~1.5 hours  
 - Frontend scaffolding → ~1 hour  
 - Form validation → ~30 minutes  
 - Testing → ~45 minutes  
 - Docs → ~45 minutes  
 
-**➡️ Total saved: ~3.5–4.0 hours**
+**Total saved: ~3.5–4.0 hours**
 
 ---
 
