@@ -50,7 +50,7 @@ Prompt:
 - **Time saved:** ~45 minutes.  
 
 📎 Screenshots:  
-![Testing](Testing.png)  
+![Testing](docs/ai_log/Testing.png)  
 ![Edge Case Test](docs/ai_log/EdgeCase.png)
 
 ---
@@ -63,7 +63,7 @@ Prompt:
 - **Time saved:** ~45 minutes.  
 
 📎 Screenshot:  
-![Docs](Doc.png)
+![Docs](docs/ai_log/Doc.png)
 
 ---
 
